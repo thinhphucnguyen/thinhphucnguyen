@@ -1,5 +1,6 @@
 # Hi, I’m Thinh Phuc Nguyen 👋  
 I’m an Electrical & Computer Engineering student in Boston, MA. 
+
 I build real-world systems: kernel modules, cross-compiled firmware, real-time vision pipelines, RL agents and anything I am inspired to build at any given time!
 
 ---
