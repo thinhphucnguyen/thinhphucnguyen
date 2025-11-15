@@ -7,8 +7,6 @@ I build real-world systems: kernel modules, cross-compiled firmware, real-time v
 
 ## 🚀 Some of my projects
 
-## 🚀 Projects
-
 - [Deblur My Cat](https://github.com/thinhphucnguyen/Deblur-my-cat)
 - [BattleShip Game](https://github.com/thinhphucnguyen/BattleShip-Game)
 - [Senior Design Text Glasses](https://github.com/thinhphucnguyen/Senior-Design-Text-Glasses)
