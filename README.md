@@ -7,26 +7,11 @@ I build real-world systems: kernel modules, cross-compiled firmware, real-time v
 
 ## 🚀 Some of my projects
 
-### **Image Deconvolution – “Deblur-my-cat”**  
-C++ · FFTW · stb_image  
-A weekend project implementing FFT-based image blurring and deblurring using Tikhonov and Wiener regularization.   
-→ Generates a custom Gaussian PSF and restores degraded images.
+## 🚀 Projects
 
-### **Embedded Qt Game – Senior Design Text Glasses Project**  
-C++ · Qt · Embedded Linux  
-Senior design project: Text-display glasses using an embedded Linux board, custom graphics UI, and real-time display logic.  
-
-### **2D Game Project – BattleShip Game**  
-C++ · SDL/Qt/snippet  
-Classic Battleship game implemented from scratch: full game logic, AI opponent, clean UI.
-
-### **Data Structures & Algorithms Repository**  
-C++ · Heaps · Splay Trees · Timsort Hybrid · B+ Trees  
-A collection of custom implementations showcasing deep understanding of core data-structures and algorithmic optimizations.
-
-### **Swarm Robotics Simulation (Coming Soon)**  
-C++/Python · ROS · Simulation · Multi-agent  
-Prototype simulation of robotic swarm behaviours for search & rescue or event applications. (Work in progress)
+- [Deblur My Cat](https://github.com/thinhphucnguyen/Deblur-my-cat)
+- [BattleShip Game](https://github.com/thinhphucnguyen/BattleShip-Game)
+- [Senior Design Text Glasses](https://github.com/thinhphucnguyen/Senior-Design-Text-Glasses)
 
 ---
 
