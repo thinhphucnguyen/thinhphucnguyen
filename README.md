@@ -21,5 +21,5 @@ I build real-world systems: kernel modules, cross-compiled firmware, real-time v
 
 ## 📫 Contact  
 - **Email:** nguyenthinhphuc1901@gmail.com 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/thinh-phuc-nguyen-528204205/)  
+- **LinkedIn:** [linkedin.com/in/thinh-phuc-nguyen-528204205/](https://www.linkedin.com/in/thinh-phuc-nguyen-528204205/)  
 - **GitHub:** [github.com/thinhphucnguyen](https://github.com/thinhphucnguyen)
