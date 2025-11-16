@@ -91,8 +91,6 @@ Check out my [repositories](https://github.com/thinhphucnguyen?tab=repositories)
 
 <div align="center">
 
-*"Hardware and software are just different ways of thinking about the same problem"*
-
 **Open to research opportunities and collaborations in VLSI, embedded systems, and hardware acceleration**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thinhphucnguyen&color=brightgreen)
