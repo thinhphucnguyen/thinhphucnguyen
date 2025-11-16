@@ -90,13 +90,3 @@ class ThinhPhucNguyen:
 </div>
 
 <div align="center">
-### 🎯 Current Goals
-
-```mermaid
-graph LR
-    A[Research Opportunities] --> B[VLSI Design]
-    A --> C[GPU Technologies]
-    B --> D[Chip Design]
-    C --> D
-    D --> E[PhD or Industry?]
-```
