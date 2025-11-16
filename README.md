@@ -4,8 +4,6 @@
 
 ### Electrical & Computer Engineering Student | Boston, MA
 
-*Building real-world systems from silicon to software*
-
 </div>
 
 ---
