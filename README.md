@@ -46,7 +46,3 @@ I build systems that bridge hardware and software—from kernel modules and firm
 Open to research opportunities in VLSI, embedded systems, and hardware acceleration
 
 </div>
-EOF
-Output
-
-<div align="center">
