@@ -4,8 +4,6 @@
 
 **Master's Student in Electrical & Computer Engineering** | Boston University
 
-Hardware & Software Enthusiast
-
 </div>
 
 ---
