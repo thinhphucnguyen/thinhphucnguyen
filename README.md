@@ -21,7 +21,7 @@ I build systems that bridge hardware and software—from kernel modules and firm
 **[Deblur My Cat](https://github.com/thinhphucnguyen/Deblur-my-cat)** - Image deconvolution pipeline using signal processing  
 `Python` `MATLAB` `Computer Vision`
 
-**[BattleShip Game](https://github.com/thinhphucnguyen/BattleShip-Game)** - Interactive battleship with AI opponent  
+**[Dungeon Descent](https://github.com/thinhphucnguyen/Dungeon-Descent)** - Terminal Based Dungeon Crawler 
 `C++` `Game Development`
 
 **[Text Glasses](https://github.com/thinhphucnguyen/Senior-Design-Text-Glasses)** - Real-time text recognition wearable device  
