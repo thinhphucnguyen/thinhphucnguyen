@@ -1,48 +1,38 @@
 <div align="center">
 
-# Hi, I'm Thinh Phuc Nguyen 👋
+# Thinh Phuc Nguyen
 
-**Master's Student in Electrical & Computer Engineering** | Boston University
+**Masters in Electrical & Computer Engineering** | Boston University
 
-</div>
-
----
-
-## About Me
-
-I build systems that bridge hardware and software—from kernel modules and firmware to computer vision pipelines and reinforcement learning agents.
-
-**Interests:** Embedded Systems • VLSI Design • Computer Vision • Hardware Acceleration
-
----
-
-## Projects
-
-**[Deblur My Cat](https://github.com/thinhphucnguyen/Deblur-my-cat)** - Image deconvolution pipeline using signal processing  
-`Python` `MATLAB` `Computer Vision`
-
-**[Dungeon Descent](https://github.com/thinhphucnguyen/Dungeon-Descent)** - Terminal Based Dungeon Crawler 
-`C++` `Game Development`
-
-**[Text Glasses](https://github.com/thinhphucnguyen/Senior-Design-Text-Glasses)** - Real-time text recognition wearable device  
-`ARM` `Embedded Systems` `Computer Vision`
-
-[→ View all projects](https://github.com/thinhphucnguyen?tab=repositories)
-
----
-
-## Skills
-
-**Languages:** C • C++ • Python • MATLAB • CUDA
-
-**Embedded & Systems:** ARM • Linux Kernel • GPIO • Real-time Systems
-
-**AI/ML:** PyTorch • OpenCV • Reinforcement Learning
-
----
-
-<div align="center">
-
-Open to research opportunities in VLSI, embedded systems, and hardware acceleration
+I love to learn and build new things!
 
 </div>
+
+---
+
+## About
+
+I work on embedded systems, chip design, and computational imaging. Current focus: VLSI circuit design, hardware-software integration, and applying ML to real-time systems.
+
+**Research Interests:** VLSI Design • Embedded Systems • Computational Imaging • Hardware Acceleration
+
+---
+
+## Featured Work
+
+### Popular Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thinhphucnguyen&repo=Deblur-my-cat&theme=default)](https://github.com/thinhphucnguyen/Deblur-my-cat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thinhphucnguyen&repo=Senior-Design-Text-Glasses&theme=default)](https://github.com/thinhphucnguyen/Senior-Design-Text-Glasses)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thinhphucnguyen&repo=Dungeon-Descent&theme=default)](https://github.com/thinhphucnguyen/Dungeon-Descent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thinhphucnguyen&repo=BattleShip-Game&theme=default)](https://github.com/thinhphucnguyen/BattleShip-Game)
+
+[→ Browse all repositories](https://github.com/thinhphucnguyen?tab=repositories)
+
+---
+
+## Technical Stack
+
+**Systems & Hardware:** C • C++ • ARM • Linux Kernel • FPGA • Verilog  
+**ML & Vision:** Python • PyTorch • OpenCV • CUDA • MATLAB  
+**Tools:** Git • QEMU • GDB • CMake
