@@ -18,14 +18,7 @@ I work on embedded systems, chip design, and computational imaging. Current focu
 
 ---
 
-## Featured Work
-
-### Popular Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thinhphucnguyen&repo=Deblur-my-cat&theme=default)](https://github.com/thinhphucnguyen/Deblur-my-cat)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thinhphucnguyen&repo=Senior-Design-Text-Glasses&theme=default)](https://github.com/thinhphucnguyen/Senior-Design-Text-Glasses)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thinhphucnguyen&repo=Dungeon-Descent&theme=default)](https://github.com/thinhphucnguyen/Dungeon-Descent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thinhphucnguyen&repo=BattleShip-Game&theme=default)](https://github.com/thinhphucnguyen/BattleShip-Game)
+### My Repos!
 
 [→ Browse all repositories](https://github.com/thinhphucnguyen?tab=repositories)
 
