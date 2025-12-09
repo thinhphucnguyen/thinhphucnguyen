@@ -9,7 +9,7 @@ Master's student in ECE at Boston University. I build things at the intersection
 <details>
 <summary><b>Pokemon RPG on BeagleBone</b></summary>
 <br>
-Full battle system and PvP multiplayer in Qt/C++ running on embedded Linux!
+Full battle system and PvP multiplayer in Qt/C++ running on embedded Linux. Because regular computers are too easy.
 </details>
 
 <details>
