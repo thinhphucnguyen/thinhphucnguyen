@@ -1,57 +1,59 @@
-# Hi, I'm Thinh Phuc !
+## 👋 Hi, I'm Thinh Phuc!
 
-Master's student in ECE at Boston University.
-
+**Master's Student | Electrical & Computer Engineering | Boston University**
 ---
 
-## 🛠️ Currently Working On
+## 🏗️ Current Projects
 
 <details>
-<summary><b>Pokemon RPG on BeagleBone</b></summary>
+<summary>⚡ **Pokemon RPG: Embedded PvP System (BeagleBone Black)**</summary>
 <br>
-Full battle system and PvP multiplayer in Qt/C++ running on embedded Linux. Because regular computers are too easy.
+A complex, real-time implementation of a full battle system and **PvP multiplayer** using Qt/C++. This project is a rigorous deep dive into **real-time scheduling, direct hardware access,** and efficient embedded graphics rendering on Linux.
 </details>
 
 <details>
-<summary><b>Multi-Drone Exploration</b></summary>
+<summary>🛰️ **Autonomous Multi-Drone Swarm Exploration (Reinforcement Learning)**</summary>
 <br>
-Autonomous drones using RL to explore unknown environments. Teaching robots to not crash into walls.
+Developing an intelligent swarm system where drones use **Reinforcement Learning (RL)** for cooperative mapping of unknown environments. The core challenge is achieving collective intelligence and robust navigation to **avoid collisions** in dynamic space.
 </details>
 
 <details>
-<summary><b>Computational Imaging</b></summary>
+<summary>🖼️ **Computational Imaging: Deconvolution & Inverse Problems**</summary>
 <br>
-Deconvolution algorithms and inverse problems in optical systems. Making blurry images less blurry with math.
-</details>
-
----
-
-## 💻 Tech Stack
-
-<details>
-<summary>Click to expand</summary>
-<br>
-
-**Hardware/Systems** — C • C++ • ARM • Linux Kernel • FPGA • Verilog  
-**ML/Vision** — Python • PyTorch • OpenCV • CUDA • MATLAB  
-**Tools** — Git • QEMU • GDB • CMake
-
+Applying advanced signal processing techniques like **deconvolution algorithms and optimization math** to correct optical system flaws. I leverage complex mathematics and C++ to solve the inverse problem, turning blurry sensor data into a clear, high-resolution image.
 </details>
 
 ---
 
-## 🔬 Research Interests
+## 🛠️ My Technical Stack
 
-VLSI Design • Embedded Systems • Hardware Acceleration • Real-time ML
+
+| Category | Core Skills | Key Tools/Frameworks |
+| :--- | :--- | :--- |
+| **🚀 Embedded & OS** | **C/C++**, ARM Architecture, **Linux Kernel** Development | FreeRTOS, QEMU, GDB, CMake |
+| **💡 Hardware & VLSI** | **FPGA**, **Verilog/SystemVerilog**, SoC Design, Pipelining | Xilinx/Altera Toolchains |
+| **🤖 ML & Vision** | **Python**, Optimization, Computer Vision | PyTorch, **CUDA/TensorRT**, OpenCV, MATLAB |
+
+
+
+---
+
+## 🎯 Research & Professional Focus
+
+* **VLSI Design**
+* **Hardware Acceleration**
+* **Real-time ML Inference**
+* **Advanced Embedded Systems**
 
 ---
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=thinhphucnguyen&show_icons=true&theme=dark&hide_border=true)
+**📊 GitHub Activity**
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=thinhphucnguyen&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=thinhphucnguyen&show_icons=true&theme=vue&hide_border=true&title_color=3498db&icon_color=ff9900&text_color=00ff99)
+![](https://github-readme-streak-stats.herokuapp.com/?user=thinhphucnguyen&theme=highcontrast&hide_border=true&fire=ff9900&ring=3498db)
 
-[→ Browse repositories](https://github.com/thinhphucnguyen?tab=repositories)
+**[→ Browse all Repositories](https://github.com/thinhphucnguyen?tab=repositories)**
 
 </div>
