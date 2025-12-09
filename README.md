@@ -4,7 +4,7 @@
 
 **Master's in Electrical & Computer Engineering** | Boston University
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Embedded+Systems+Engineer;VLSI+Designer;ML+Researcher;Hardware+%2B+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Embedded+Systems;VLSIr;ML+Researcher;Hardware+%2B+Software" alt="Typing SVG" />
 
 </div>
 
@@ -61,21 +61,3 @@ Deconvolution, PSF analysis, and inverse problems in optical systems.
 
 **Research Focus** — VLSI Design • Embedded Systems • Hardware Acceleration • Real-time ML
 
----
-
-<div align="center">
-
-### GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thinhphucnguyen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinhphucnguyen&layout=compact&langs_count=8&theme=tokyonight"/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=thinhphucnguyen&theme=tokyonight)
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/thinhphucnguyen/count.svg)
-
-[Browse all repositories →](https://github.com/thinhphucnguyen?tab=repositories)
-
-</div>
