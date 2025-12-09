@@ -1,6 +1,6 @@
-# Hi, I'm Thinh Phuc
+# Hi, I'm Thinh Phuc !
 
-Master's student in ECE at Boston University. I build things at the intersection of hardware and software—embedded systems, chips, and ML that runs on real hardware.
+Master's student in ECE at Boston University.
 
 ---
 
