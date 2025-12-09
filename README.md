@@ -6,21 +6,24 @@
 ## 🏗️ Current Projects
 
 <details>
-<summary>⚡ **Pokemon RPG: Embedded PvP System (BeagleBone Black)**</summary>
+<summary>⚡ <a href="https://github.com/willjchill/Pokelite"><strong>Pokemon RPG: Embedded PvP System</strong></a></summary>
 <br>
-A complex, real-time implementation of a full battle system and **PvP multiplayer** using Qt/C++. This project is a rigorous deep dive into **real-time scheduling, direct hardware access,** and efficient embedded graphics rendering on Linux.
+A complex, real-time implementation of a full battle system and <strong>PvP multiplayer</strong> using Qt/C++.  
+This project is a rigorous deep dive into <strong>real-time scheduling, hardware-level graphics</strong>, and embedded Linux development.
 </details>
 
 <details>
-<summary>🛰️ **Autonomous Multi-Drone Swarm Exploration (Reinforcement Learning)**</summary>
+<summary>🛰️ <a href="https://github.com/thinhphucnguyen/Swarm-Robotics-Rescue-Drones"><strong>Autonomous Multi-Drone Swarm Exploration </strong></a></summary>
 <br>
-Developing an intelligent swarm system where drones use **Reinforcement Learning (RL)** for cooperative mapping of unknown environments. The core challenge is achieving collective intelligence and robust navigation to **avoid collisions** in dynamic space.
+An intelligent drone swarm using <strong>Reinforcement Learning</strong> for cooperative mapping and obstacle avoidance.  
+Focuses on decentralized intelligence, collision-free navigation, and emergent behavior.
 </details>
 
 <details>
-<summary>🖼️ **Computational Imaging: Deconvolution & Inverse Problems**</summary>
+<summary>🖼️ <a href="https://github.com/thinhphucnguyen/Deblur-my-cat"><strong>Computational Imaging: Deconvolution & Inverse Problems</strong></a></summary>
 <br>
-Applying advanced signal processing techniques like **deconvolution algorithms and optimization math** to correct optical system flaws. I leverage complex mathematics and C++ to solve the inverse problem, turning blurry sensor data into a clear, high-resolution image.
+Applying advanced <strong>inverse problem optimization</strong> and deconvolution algorithms to restore degraded optical images.  
+Uses mathematical modeling and C++/Python tools to recover sharp, high-resolution data.
 </details>
 
 ---
