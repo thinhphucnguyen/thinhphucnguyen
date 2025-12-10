@@ -6,7 +6,7 @@
 ## 🏗️ Current Projects
 
 <details>
-<summary>⚡ <a href="https://github.com/willjchill/Pokelite"><strong>Pokemon RPG: Embedded PvP System</strong></a></summary>
+<summary>⚡ <a href="https://github.com/willjchill/Pokelite"><strong>Pokemon RPG on Embedded System</strong></a></summary>
 <br>
 A complex, real-time implementation of a full battle system and <strong>PvP multiplayer</strong> using Qt/C++.  
 This project is a rigorous deep dive into <strong>real-time scheduling, hardware-level graphics</strong>, and embedded Linux development.
