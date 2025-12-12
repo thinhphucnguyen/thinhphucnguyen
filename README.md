@@ -48,15 +48,3 @@ Uses mathematical modeling and C++/Python tools to recover sharp, high-resolutio
 * **Real-time ML Inference**
 * **Advanced Embedded Systems**
 
----
-
-<div align="center">
-
-**📊 GitHub Activity**
-
-![](https://github-readme-stats.vercel.app/api?username=thinhphucnguyen&show_icons=true&theme=vue&hide_border=true&title_color=3498db&icon_color=ff9900&text_color=00ff99)
-![](https://github-readme-streak-stats.herokuapp.com/?user=thinhphucnguyen&theme=highcontrast&hide_border=true&fire=ff9900&ring=3498db)
-
-**[→ Browse all Repositories](https://github.com/thinhphucnguyen?tab=repositories)**
-
-</div>
