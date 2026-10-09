@@ -1,18 +1,15 @@
-<h1 align="center">
-  <img src="assets/critter.svg" width="56" align="absmiddle" alt=""> Thinh Phuc Nguyen
-</h1>
+# Thinh Phuc Nguyen
+
+ECE master's student at Boston University. Embedded systems, hardware design, and real-time ML.
 
 <p align="center">
-  ECE master's student at Boston University<br>
-  <sub>embedded systems · hardware design · real-time ML</sub>
+  <img src="metrics.isocalendar.svg" alt="Contribution calendar" width="100%">
 </p>
 
-## Stack
+<p align="center">
+  <img src="metrics.languages.svg" alt="Most used languages" width="420">
+</p>
 
 **Embedded** &nbsp; C/C++ · ARM · Linux kernel · FreeRTOS · QEMU · GDB · CMake<br>
 **Hardware** &nbsp; FPGA · Verilog/SystemVerilog · SoC design · Xilinx/Altera<br>
 **ML & vision** &nbsp; Python · PyTorch · CUDA/TensorRT · OpenCV · MATLAB
-
-## Lately
-
-Digging into VLSI design, hardware acceleration, and real-time ML inference.
